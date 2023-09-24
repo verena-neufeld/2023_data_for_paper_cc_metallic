@@ -1,0 +1,2 @@
+The new data for figure 3 can be found in "processed_data/li/li_struct_results_27tz_222_333.csv".
+Use the "_corrected" columns.

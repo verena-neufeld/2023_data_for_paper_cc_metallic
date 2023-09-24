@@ -1,0 +1,8 @@
+The new data for figure 2 can be found in "processed_data/ueg_cbs_tdl/*.csv" files.
+
+The reference DMC *total* energies are rs=1: 0.58640, rs=2: 0.001917, rs=3: -0.067309, rs=4: -0.07771, rs=5: -0.07597,
+from which the HF energy in the thermodynamic limit is subtracted to get the DMC correlation energies.
+These reference DMC energies are from S. Azadi, N. D. Drummond, S. M. Vinko, PRB 107, L121105, 2023.
+
+To plot figure 2, rs is plotted on the x axis and the ratio of correlation energy of our target methods to the DMC correlation
+energy is on the y axis. 

@@ -1,0 +1,4 @@
+The new data for tables S3 to S5 can be found in "processed_data/ueg_cbs/*gamma.csv" files.
+For example, the CCSD data is in "processed_data/ueg_cbs/ccsd_corr_cbs_gamma.csv".
+To get the triples (CCSDT, DCSDT, ring-CCSDT) data, go to "processed_data/ueg_cbs/diff_{method}_dcsd_corr_cbs_gamma.csv"
+and add the appropriate energy to the CBS DCSD energy given in "processed_data/ueg_cbs/dcsd_corr_cbs_gamma.csv". 

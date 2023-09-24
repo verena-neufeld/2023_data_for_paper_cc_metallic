@@ -1,0 +1,7 @@
+The data for figure S2(a) can be found in "raw_data/ueg/raw_results_bald.csv".
+
+To plot the main data curves in figure S2(a), plot number of electrons over number of spinorbitals (N/M) against correlation energy per electron (divide correlation energy by number of electrons).
+
+The data for figure S2(b) can be found in "processed_data/ueg_cbs/*csv" files.
+
+To plot the main data curves in figure S2(b), plot 1/number of electrons against CBS correlation energies per electron. 

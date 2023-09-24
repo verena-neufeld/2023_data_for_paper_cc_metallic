@@ -1,0 +1,4 @@
+The non-analytic data for figure S3 can be found in "processed_data/ueg_cbs/drpa_ks_corr*csv" and "processed_data/ueg_cbs/ccsd_corr*csv" files.
+
+To plot the non-analytic dRPA and CCSD data, plot 1/(number of electrons)^(2/3) against the dRPA and CCSD correlation energies per electron.
+

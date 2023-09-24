@@ -1,0 +1,5 @@
+The data for figure S1 can be found in "raw_data/ueg/raw_results_bald_m_1.5_tol_0.04_rs_4.csv".
+
+To plot figure S1, plot MP2 correlation energy per number of electrons (divide energy given in data file by number
+of electrons) against the difference of the relevant triples coupled cluster correlation energy per electron and the
+CCSD correlation energy per electron.
